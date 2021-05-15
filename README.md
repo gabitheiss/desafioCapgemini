@@ -20,6 +20,6 @@ A primeira parte foi enviada para o email solicitado pela Capgemini.
 
  Código construído com Visual Studio Code, na linguagem JavaScript.
 
-Os arquivos deste repositório são a resolução segunda parte do desafio: Ao executar o arquivo HTML "Calculadora 2", o sistema apresentará um formulário simples com as solicitações listadas. O usuário preenche os dados e ao "salvar" o sistema retorna os dados que o usuário preencheu, juntamente com: O valor do investimento diário, qual a quantidade máxima de visualizações, qual a quantidade máxima de cliques e qual a quantidade máxima de compartilhamentos.
+Os arquivos deste repositório são a resolução segunda parte do desafio: Ao executar o arquivo HTML "Calculadora 2", o sistema apresentará um formulário simples com as solicitações listadas. O usuário preenche os dados e ao "salvar" o sistema retorna os dados que o usuário preencheu, juntamente com: Valor do investimento diário, Quantidade máxima de visualizações, quantidade máxima de cliques e  a quantidade máxima de compartilhamentos.
 
 A parte solicitada de filtro por cliente e data, não obtive sucesso na tentativa de realização devido ao meu básico conhecimento da linguagem JavaScript.
